@@ -1,10 +1,10 @@
 ## Joezc1 🐟
 
-- 🐧 一个工作一年的前端攻城狮
+- 🐧 前端攻城狮
 - 🏡 作品：
-- <a href="http://39.106.159.120:8848/web" target="_blank">仿知乎Web(仅用作学习练手)
-- <a href="http://39.106.159.120:8848/web/docs/" target="_blank">个人博客网站 ✨</a>
-- <a href="http://39.106.159.120:8848/web/vue-antd-admin/" target="_blank">Antd后台模板</a>
+- <a href="http://zzcc.website/" target="_blank">个人博客网站 ✨</a>
+- <a href="http://101.43.17.174:8080/" target="_blank">ReactHook练手项目</a>
+- <a href="http://101.43.17.174:888/public/h5/index.html#/" target="_blank">Vue3+Typescript重构版练手项目</a>
 - 💬 微信：ZhaoChaozzcc
 
-<p>路漫漫其修远兮,吾将上下而求索。</p>
+<p>一个喜欢折腾的前端。</p>
